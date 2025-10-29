@@ -1,0 +1,90 @@
+1. What is computer? List it's advantages and disadvantage.
+-> It is an electronic device which accept input (raw facts), process it and then gives output (information).
+
+- It's advantages are÷
+i. It is an automatic machine.
+ii. It increase your productivity.
+iii. It improves your ability.
+iv. It is a versatile machine.
+v. It connects you to the internet.
+vi. It can make you money.
+
+- It's disadvantage are÷
+i. It creates a dependency.
+ii. It requires skill to operate.
+iii. It creates eye strain.The generation of computer that is more advanced than it's previous generation and have more features.
+iv. It requires regular maintenance.
+v. You can become anti-social or depressed.
+
+2. Explain any 5 characteristics of computer in brief.
+-> Any 5 characteristics of computer in brief are÷
+i. High Speed - A computer works with much higher speed and accuracy compared to humans while performing mathematical calculations. Computers can process millions (1,000,000) of instructions per second. The time taken by computers for their operations is microseconds and nanoseconds.
+
+ii. Accuracy - Computers perform calculation with 100% accuracy. Errors may occur due to data inaccuracy or inconsistency. It is reliable and robust. It never makes a mistake. Most probably, the error occurs due to the user rather than the computer. The result obtained from the users error is termed Garbage-In-Garbage-Out (GIGO).
+
+iii. Diligence -bWhen used for a longer period, the computer is not tired or fatigue as the humans do. It can perform long and complex calculations with the same speed and accuracy continuously.
+
+iv. Automatic - A computer is an automatic machine. It may executive the process without any intervention of the user once it is assigned a work. Once the data or instruction is fetched from the secondary storage devices, they get immediately stored into RAM (primary memory) and then sequentially are executed.
+
+v. Versatility - All modern computers can perform different types of tasks simultaneously. Computers have become an integral part of our life. With their extended flexibility they are used all over the world. They can perform different types of tasks with the same ease. They can be used as personal computers, for home uses, for business-oriented tasks, in forecasting weather, space exploration, teaching, railways, banking, medicine, etc.
+
+3. Explain any 5 application of computer in brief.
+-> Any 5 application of computer in brief are described below÷
+i. Education - Computer is a very efficient tool which can be used for learning and teaching processing, student data processing, result processing, handouts and notes preparation, question preparation and online education, etc. Many school and universities provide online education through internet.
+
+ii. Bank - The use of computers in the field of banking sector is increasing rapidly. It helps to operate efficiently and effectively. People can use mobile banking and ATM services 24-hours in order to deposit and withdraw money.
+
+iii. Business and Industry - The uses of computers in business and industry improves their working efficiency. Nowadays industrial research, budgeting, process control all are computer based. The robotics are also computer based. CAD (Computer Aided Design), CAM (Computer Aided Manufacturing) are used in manufacturing sector to design model of electrical, electronic and mechanical models of machine.
+
+iv. Hospital - Medical researchers and practitioners are done with help of computer. Nowadays the multimedia kits for surgeon are also available to learn surgeon on virtual patients. Computers are an integral part of various types of sophisticated medical equipment like ultrasound machine, CT scan machine and MRI scan machine, etc.
+
+v. Entertainment - Different types of entertainment fields such as multimedia, film making with animation graphics, audio and visual design, watch and download movie are done with the help of computer.
+
+4. Write short notes on:
+
+a. ABACUS :- The history of computer begins with the birth of abacus which is believed to be the first computer. It was invented by Chinese people around 4,000 years ago. It was a wooden frame which has metal rods with beads mounted on them. It has mainly two parts that is heaven and earth separated by a mid-air. Each string in heaven has two beads and five units for each value whereas earth has five beads and one unit for each value. The bead were moved by the abacus operator according to some rules to perform arithmetic calculation. Abacus is still used in some countries like China, Russia and Japan.
+
+b. Pascaline :- Pascaline is also known as Arithmetic Machine or Adding Machine. It was invented between 1642 and 1644 by a French mathematician-philosopher Biaise Pascal. It is believed that it was the first mechanical and automatic calculator. Pascal invented this machine to help his father, a tax accountant. It could only perform addition and subtraction. It was a wooden box with a series of gears and wheels. When a wheel is rotated one revolution, it rotates the neighboring wheel. A series of windows is given on the top of the wheels to read the totals.
+
+c. Difference Engine :- In the early 1820s, it was designed by Charles Babbage who is known as "the Father of Modern Computer". It was a mechanical computer which could perform simple calculations. It was a steam driven calculating machine designed to solve tables of numbers like logarithm tables.
+
+d. Tabulating Machine :- It was invented in 1890, by Herman Hollerith, an American statistician. It was a mechanical tabulator based on punch cards. It could tabulate statistics and record or sort data or information. This machine was used in the 1890 U.S. Census. Hollerith also started the Hollerith's Tabulating Machine Company which later became International Business Machine (IBM) in 1924.
+
+e. MARK-I :- The next major changes in the history of computer began in 1937 when Howard Aiken planned to develop a machine that could perform calculations involving large numbers. In 1944, Mark I computer was built as a partnership between IBM and Harvard. It was the first programmable digital computer.
+
+f. ENIAC :- In 1942, physicist John Mauchly proposed an all-electronic calculating machine. The ENIAC occupied about 1,800 square feet and consisted of almost 20,000 vacuum tubes, 1,500 relays, 10,000 capacitors, and 70,000 resistors. It also used  200 kilowatts of electricity, weighed over 30 tons, and cost about $487,000.
+
+g. EDSAC :- EDSAC is an early British computer considered to be the second stored program electronic computer. It was created at the University of Cambridge in England, performed it's first calculation on May 6, 1949. It also has  the distinction of being the first computer to run a graphical computer game, an implementation of tic-tac-toe called OXO. The picture is of the EDSAC I in June 1948, courtesy of the University of Cambridge.
+
+h. UNIVAC :- The UNIVAC (UNIVersal Automatic Computer) was the first general-purpose electronic digital computer design for business application produced in the United States. It was developed by J. Presper Eckert and John Mauchly.
+By the end of the 1950s computers were no longer one-of-a-kind hand built devices owned only by universities and government research labs. Eckert and Mauchly left the University of Pennsylvania over a dispute about who owned the patents for their invention. They decided to set up their own company. Their first product was the famous UNIVAC computer, the first commercial (that is, mass produced) computer. In the 1950s, UNIVAC (a contraction of first "Universal Automatic Computer") was the household word for "computer". The first UNIVAC was sold, appropriately enough, to the Census bureau. UNIVAC was also the first computer to employ magnetic tape. It was the first commercially used electronic computer in the world.
+
+5. What is computer generation? Explain first generation of computer with it's features.
+-> Generation of Computers refers to the classification of computers into different groups based on the technology, memory devices, hardware, software used. Each generation of computer is characterized by a major technological development that fundamentally changed the way  computers operate, resulting in increasingly smaller, cheaper, more powerful, more efficient and reliable devices.
+
+-> The first generation (1940 AD-1956 AD) computers were slow, huge and expensive. In these computers, vacuum tubes were used as the basic components of CPU and memory. These computers were mainly depended on batch Operating System and punch cards. Magnetic tape and paper tape were used as output and input devices in this generation. These computers were produced lots of heat.
+
+6. Distinguish between second and third generation of computer.
+-> The distinguish between second and third generation of computer are as follows-:
+
+Second Generation of computer 1. The second generation (1956-1963) was the era of the transistor computer. 2. It made transistor computers faster than the first generation computer. 3. One transistor consists of two diods. 4. Core memory was developed. 5. Machine Language and Assembly Language were used.
+
+Third generation of computer 1. The third generation computers used integrated circuits (ICs) instead of transistors. 2. These were much more efficient than the second generation computer. 3. One IC consists of 1 to 1000 transistors. 4. Integrated circuits were developed. 5. High Level Language were used.
+
+7. What is fourth generation of computer? Explain 4th generation of computer with it's features.
+->The generation of computer that is more advanced than third generation and have more features is fourth generation of computer.
+
+-> The fourth generation (1971 - Present) computers used Large Scale Integrated (LSI consists of 1,000 to 100,000 transistors) and Very Large 100,000 to 10,000,000 transistors). Also known as microprocessor, a chip containing  millions of transistor and other circuit elements. These chips made this generation computer more compact, powerful, fast and affordable. These generation computers used real time, time sharing and distributed operating system. The programming languages iike C, C++, DBASE were also used in this generation.
+
+8. What is AI? Explain fifth generation of computer with it's features.
+-> Artificial Intelligence (AI) is the simulation of human intelligence process by machines, especially computer systems. It is concerned with building systems that can learn from data and make decisions or predictions based on that data, rather than solely following explicit, pre-programmed instructions.
+
+-> In fifth generation computers, the VLSI technology was replaced with ULSI (Ultra Large  Scale  Integration) and also known as bio-chips. It made possible the production of microprocessor chips with ten million electronic components. This generation computer used parallel processing hardware and AI (Artificial software). The programming languages used in this generation were C, C++, Java, Microsoft Dot Net, Python, Perl, NetBeans, etc.
+
+-> It's features are:-
+1. Used in parallel processing.
+2. Used superconductor.
+3. Used in speech recognition.
+4. Used in intelligent robot.
+5. Used in artificial intelligence.
+
